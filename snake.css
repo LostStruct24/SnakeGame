@@ -1,0 +1,7 @@
+body {
+    background: url("./img/leaves.jpg");
+    background-color: linear-gradient(to left, #8ec987,  #7aac7a);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat; 
+}
